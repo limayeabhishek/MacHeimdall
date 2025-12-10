@@ -1,0 +1,5 @@
+2025-12-09 20:26:39.492106+0530  localhost authorizationhost[67697]: [com.apple.Authorization:AuthorizationHost] Failed to authenticate user <<private>> (error: 9).
+2025-12-09 20:26:44.103015+0530  localhost authorizationhost[67697]: [com.apple.Authorization:AuthorizationHost] Failed to authenticate user <<private>> (error: 9).
+2025-12-09 20:27:05.901693+0530  localhost authorizationhost[67704]: [com.apple.Authorization:AuthorizationHost] Failed to authenticate user <<private>> (error: 9).
+2025-12-09 20:27:08.687333+0530  localhost authorizationhost[67704]: [com.apple.Authorization:AuthorizationHost] Failed to authenticate user <<private>> (error: 9).
+2025-12-09 20:27:11.358209+0530  localhost authorizationhost[67704]: [com.apple.Authorization:AuthorizationHost] Failed to authenticate user <<private>> (error: 9).

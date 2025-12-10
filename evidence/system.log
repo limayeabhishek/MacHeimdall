@@ -1,0 +1,126 @@
+Dec  9 00:05:05 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 00:15:12 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 00:35:08 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 00:35:08 Abhisheks-MacBook-Air syslogd[542]: Configuration Notice:
+	ASL Module "com.apple.cdscheduler" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec  9 00:35:08 Abhisheks-MacBook-Air syslogd[542]: Configuration Notice:
+	ASL Module "com.apple.install" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec  9 00:35:08 Abhisheks-MacBook-Air syslogd[542]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/asl" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Dec  9 00:35:08 Abhisheks-MacBook-Air syslogd[542]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/system.log" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Dec  9 00:35:08 Abhisheks-MacBook-Air syslogd[542]: Configuration Notice:
+	ASL Module "com.apple.authd" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec  9 00:35:08 Abhisheks-MacBook-Air syslogd[542]: Configuration Notice:
+	ASL Module "com.apple.eventmonitor" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec  9 00:35:08 Abhisheks-MacBook-Air syslogd[542]: Configuration Notice:
+	ASL Module "com.apple.mail" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec  9 00:35:08 Abhisheks-MacBook-Air syslogd[542]: Configuration Notice:
+	ASL Module "com.apple.performance" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec  9 00:35:08 Abhisheks-MacBook-Air syslogd[542]: Configuration Notice:
+	ASL Module "com.apple.iokit.power" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec  9 00:35:08 Abhisheks-MacBook-Air syslogd[542]: Configuration Notice:
+	ASL Module "com.apple.contacts.ContactsAutocomplete" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec  9 00:35:08 Abhisheks-MacBook-Air syslogd[542]: Configuration Notice:
+	ASL Module "com.apple.mkb" sharing output destination "/private/var/log/keybagd.log" with ASL Module "com.apple.mkb.internal".
+	Output parameters from ASL Module "com.apple.mkb.internal" override any specified in ASL Module "com.apple.mkb".
+Dec  9 00:35:08 Abhisheks-MacBook-Air syslogd[542]: Configuration Notice:
+	ASL Module "com.apple.mkb" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec  9 00:35:08 Abhisheks-MacBook-Air syslogd[542]: Configuration Notice:
+	ASL Module "com.apple.MessageTracer" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec  9 00:46:41 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 01:08:51 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 01:33:27 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 01:49:24 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 02:00:03 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 02:10:37 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 02:23:01 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 02:45:06 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 03:03:48 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 03:16:31 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 03:27:18 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 03:44:51 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 04:02:44 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 04:12:46 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 04:24:31 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 04:34:40 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 04:48:51 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 05:02:50 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 05:16:47 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 05:26:50 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 05:40:07 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 05:53:28 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 06:05:33 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 06:18:31 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 06:29:32 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 06:44:44 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 06:57:19 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 07:13:21 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 07:35:02 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 07:52:15 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 08:10:31 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 08:20:31 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 08:31:35 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 08:55:05 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 09:05:21 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 09:21:31 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 09:31:33 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 09:55:23 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 10:14:49 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 10:40:59 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 11:04:49 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 11:17:25 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 11:40:45 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 12:01:15 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 12:16:53 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 12:35:15 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 12:52:07 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 13:10:14 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 13:20:28 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 13:41:11 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 13:52:34 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 14:03:09 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 14:13:17 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 14:26:31 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 14:46:45 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 15:08:33 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 15:21:16 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 15:33:53 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 15:44:08 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 16:05:54 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 16:28:33 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 16:45:03 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 17:01:14 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 17:17:08 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 17:29:34 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 17:46:21 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 18:04:02 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 18:23:16 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 18:33:51 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 18:43:51 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 19:01:10 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 19:22:09 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 19:32:22 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 19:48:48 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 19:59:06 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 20:09:14 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 20:23:18 Abhisheks-MacBook-Air login[67501]: USER_PROCESS: 67501 ttys031
+Dec  9 20:23:18 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 20:28:40 Abhisheks-MacBook-Air login[67501]: DEAD_PROCESS: 67501 ttys031
+Dec  9 20:28:43 Abhisheks-MacBook-Air login[67808]: USER_PROCESS: 67808 ttys031
+Dec  9 20:33:32 Abhisheks-MacBook-Air login[67808]: DEAD_PROCESS: 67808 ttys031
+Dec  9 20:33:32 Abhisheks-MacBook-Air syslogd[542]: ASL Sender Statistics
+Dec  9 20:33:49 Abhisheks-MacBook-Air login[68143]: USER_PROCESS: 68143 ttys031
+Dec  9 20:38:12 Abhisheks-MacBook-Air sudo[68360]: USER_PROCESS: 68360 ttys032

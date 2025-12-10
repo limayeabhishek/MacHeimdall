@@ -1,0 +1,14 @@
+Software:
+
+    System Software Overview:
+
+      System Version: macOS 26.1 (25B78)
+      Kernel Version: Darwin 25.1.0
+      Boot Volume: Macintosh HD
+      Boot Mode: Normal
+      Computer Name: Abhishek’s MacBook Air
+      User Name: Abhishek Limaye (abhisheklimaye)
+      Secure Virtual Memory: Enabled
+      System Integrity Protection: Enabled
+      Time since boot: 26 days, 8 hours, 18 minutes
+
